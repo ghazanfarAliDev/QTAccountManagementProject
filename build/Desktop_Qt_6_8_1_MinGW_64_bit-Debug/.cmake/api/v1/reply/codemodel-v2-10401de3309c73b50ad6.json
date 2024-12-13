@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6d020a8c8ba0deda2a44.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AccountManagement",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AccountManagement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AccountManagement-Debug-7e7156bdd9d57ecd1bb1.json",
+					"name" : "AccountManagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AccountManagement_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AccountManagement_autogen-Debug-0bf9bf1c91d814c28f29.json",
+					"name" : "AccountManagement_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AccountManagement_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AccountManagement_autogen_timestamp_deps-Debug-f7c545a6b77682fdc37f.json",
+					"name" : "AccountManagement_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C++ Projects/AccountManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "D:/C++ Projects/AccountManagement"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

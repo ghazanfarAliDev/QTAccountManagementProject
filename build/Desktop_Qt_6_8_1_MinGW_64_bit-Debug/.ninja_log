@@ -1,0 +1,27 @@
+# ninja log v6
+15	2361	7557580997343927	AccountManagement_autogen/timestamp	52c39643738e7637
+15	2361	7557580997343927	AccountManagement_autogen/mocs_compilation.cpp	52c39643738e7637
+15	2361	7557580997343927	D:/C++ Projects/AccountManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/AccountManagement_autogen/timestamp	52c39643738e7637
+15	2361	7557580997343927	D:/C++ Projects/AccountManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/AccountManagement_autogen/mocs_compilation.cpp	52c39643738e7637
+2375	10781	7557580999710980	CMakeFiles/AccountManagement.dir/AccountManagement_autogen/mocs_compilation.cpp.obj	2d0025e5c71ccbbd
+2379	10828	7557580999755414	CMakeFiles/AccountManagement.dir/main.cpp.obj	c74dc42557281b51
+2385	11460	7557580999815254	CMakeFiles/AccountManagement.dir/mainwindow.cpp.obj	a8822980de015550
+11461	12347	7557581090577617	AccountManagement.exe	39e7c70d99887316
+47	452	7557590089232422	AccountManagement_autogen/timestamp	52c39643738e7637
+47	452	7557590089232422	AccountManagement_autogen/mocs_compilation.cpp	52c39643738e7637
+47	452	7557590089232422	D:/C++ Projects/AccountManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/AccountManagement_autogen/timestamp	52c39643738e7637
+47	452	7557590089232422	D:/C++ Projects/AccountManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/AccountManagement_autogen/mocs_compilation.cpp	52c39643738e7637
+90	557	7557590484713440	AccountManagement_autogen/timestamp	52c39643738e7637
+90	557	7557590484713440	AccountManagement_autogen/mocs_compilation.cpp	52c39643738e7637
+90	557	7557590484713440	D:/C++ Projects/AccountManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/AccountManagement_autogen/timestamp	52c39643738e7637
+90	557	7557590484713440	D:/C++ Projects/AccountManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/AccountManagement_autogen/mocs_compilation.cpp	52c39643738e7637
+95	480	7557591200954987	AccountManagement_autogen/timestamp	52c39643738e7637
+95	480	7557591200954987	AccountManagement_autogen/mocs_compilation.cpp	52c39643738e7637
+95	480	7557591200954987	D:/C++ Projects/AccountManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/AccountManagement_autogen/timestamp	52c39643738e7637
+95	480	7557591200954987	D:/C++ Projects/AccountManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/AccountManagement_autogen/mocs_compilation.cpp	52c39643738e7637
+77	467	7557591411288748	AccountManagement_autogen/timestamp	52c39643738e7637
+77	467	7557591411288748	AccountManagement_autogen/mocs_compilation.cpp	52c39643738e7637
+77	467	7557591411288748	D:/C++ Projects/AccountManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/AccountManagement_autogen/timestamp	52c39643738e7637
+77	467	7557591411288748	D:/C++ Projects/AccountManagement/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/AccountManagement_autogen/mocs_compilation.cpp	52c39643738e7637
+469	4902	7557591415200141	CMakeFiles/AccountManagement.dir/mainwindow.cpp.obj	a8822980de015550
+4903	5467	7557591459542533	AccountManagement.exe	39e7c70d99887316
